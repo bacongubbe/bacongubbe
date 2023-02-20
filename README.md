@@ -52,8 +52,15 @@ I am a fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
  <img src="https://www.svgrepo.com/show/373829/maven.svg" title="Maven" alt="Maven" width="40" height="40" />&nbsp;
  <img src="https://www.svgrepo.com/show/353831/gradle.svg" title="Gradle" alt="Gradle" width="40" height="40" />&nbsp;
-
- 
 </div>
+
+---
+
+## Current stats ❤️‍🔥 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bacongubbe&theme=java-dark&border_radius=4.7&background=161B22)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacongubbe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Most work is done in company organization repos. Please hit me up if you want have an interesting project I can contribute to! 
 
 
