@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://media1.giphy.com/media/pQkgcbJTrvg1B3hJXv/giphy.gif?cid=ecf05e47gmttavfsga4iv5v85vig3vl1uqoy98v72d2s3eod&rid=giphy.gif&ct=s" width="200" alt="coffee coding juice"/>
   <div id="badges" align="center">
-    <a href="https://https://www.linkedin.com/in/felixandreberg/">
+    <a href="https://www.linkedin.com/in/felixandreberg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/bacongubbe/">
