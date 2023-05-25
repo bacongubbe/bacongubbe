@@ -24,7 +24,7 @@
 I am a fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="hack-cat" width="30"> from Sweden 🇸🇪
 
 - ☕ I work as a Java-fucused full-stack developer and instructor. 🍃
-- 🎮 On my free time, I prefer playing video games or just code 👨‍💻
+- 🎮 On my free time, I prefer playing video games or just code 👨‍💻 As well as Hiking and Sailing 🏕️ ⛵
 - 🧂 Studied at `</salt>` Stockholm, where I currently work 💪
 - 📱 Want to make secure full-stack applications, for both mobile devices and web 🕸️
 - 🔗 Easiest way to reach me is via [LinkedIn](https://https://www.linkedin.com/in/felixandreberg/) 🤙
